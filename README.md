@@ -9,4 +9,3 @@ Download APK here: https://github.com/Rishabh510/sample_app/releases
 ### Folder Structure:
 <img src="https://github.com/Rishabh510/sample_app/blob/master/Capture.PNG">
  
-Live Demo: https://drive.google.com/drive/folders/11KW_tQpHBwaroxXoDgzGSsws9LIzZT__?usp=sharing
